@@ -1,0 +1,10 @@
+# Curso de vacinas
+
+## Calendário Nacional de Vacinação 2026 — slides
+
+Apresentação baseada na **Instrução Normativa do Calendário Nacional de Vacinação 2026** (3ª edição, 17/07/2026 — CGICI/DPNI/SVSA/Ministério da Saúde).
+
+- `calendario-2026/project/deck.json` — índice da apresentação (título, ordem e seções)
+- `calendario-2026/project/slides/*.html` — um arquivo por slide (1920×1080), com notas do apresentador em `<aside>`
+
+Conteúdo (26 slides): abertura, visão geral da agenda oportuna, calendário por idade, um slide para cada uma das 21 vacinas (público, esquema, dose/via/local e pontos de atenção), intervalos entre vacinas e lembretes finais.
