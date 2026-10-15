@@ -14,3 +14,10 @@ Conteúdo (26 slides): abertura, visão geral da agenda oportuna, calendário po
 
 - `certificado/project/Main.dc.html` — frente (A4 paisagem), com campos entre colchetes para preencher
 - `certificado/project/Verso.dc.html` — verso com o conteúdo programático, carga horária, período, modalidade e registro
+
+## Normas e Procedimentos para Vacinação — slides (Módulo 2)
+
+Baseado nos capítulos 1 a 11 do *Manual de Normas e Procedimentos para Vacinação*, 2ª edição revisada (Ministério da Saúde, 2024). Os capítulos 12, 13 e 14 ficaram de fora.
+
+- `normas-procedimentos/project/deck.json` — índice (36 slides, com seções por capítulo)
+- `normas-procedimentos/project/slides/*.html` — um arquivo por slide, com notas do apresentador
